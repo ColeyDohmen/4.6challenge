@@ -1,0 +1,16 @@
+C:\source\codeworks\csharp\4.6challenge\bin\Debug\net5.0\4.6challenge.exe
+C:\source\codeworks\csharp\4.6challenge\bin\Debug\net5.0\4.6challenge.deps.json
+C:\source\codeworks\csharp\4.6challenge\bin\Debug\net5.0\4.6challenge.runtimeconfig.json
+C:\source\codeworks\csharp\4.6challenge\bin\Debug\net5.0\4.6challenge.runtimeconfig.dev.json
+C:\source\codeworks\csharp\4.6challenge\bin\Debug\net5.0\4.6challenge.dll
+C:\source\codeworks\csharp\4.6challenge\bin\Debug\net5.0\ref\4.6challenge.dll
+C:\source\codeworks\csharp\4.6challenge\bin\Debug\net5.0\4.6challenge.pdb
+C:\source\codeworks\csharp\4.6challenge\obj\Debug\net5.0\4.6challenge.csprojAssemblyReference.cache
+C:\source\codeworks\csharp\4.6challenge\obj\Debug\net5.0\4.6challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\csharp\4.6challenge\obj\Debug\net5.0\4.6challenge.AssemblyInfoInputs.cache
+C:\source\codeworks\csharp\4.6challenge\obj\Debug\net5.0\4.6challenge.AssemblyInfo.cs
+C:\source\codeworks\csharp\4.6challenge\obj\Debug\net5.0\4.6challenge.csproj.CoreCompileInputs.cache
+C:\source\codeworks\csharp\4.6challenge\obj\Debug\net5.0\4.6challenge.dll
+C:\source\codeworks\csharp\4.6challenge\obj\Debug\net5.0\ref\4.6challenge.dll
+C:\source\codeworks\csharp\4.6challenge\obj\Debug\net5.0\4.6challenge.pdb
+C:\source\codeworks\csharp\4.6challenge\obj\Debug\net5.0\4.6challenge.genruntimeconfig.cache
